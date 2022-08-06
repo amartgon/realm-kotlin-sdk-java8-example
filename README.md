@@ -1,9 +1,8 @@
-# Simple Java Console Application using Realm-Kotlin.
+# Ejemplo sencillo de uso de la SDK Kotlin de Realm con Java 8
+
+Ejemplo creado modificando este código de muestra: https://github.com/realm/realm-kotlin-samples/tree/main/JVMConsole
 
 <img src="./Screenshots/DemoConsoleJVM.gif" width="600">
-
-This application demonstrates the usage of Realm Kotlin SDK in a regular console app (no Multiplatform).
-It is powered by Kotlin/JVM support from Realm-Kotlin SDK.
 
 ## Run from IntelliJ IDEA
 
